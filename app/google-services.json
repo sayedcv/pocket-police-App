@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "805031337184",
+    "firebase_url": "https://pocket-police-45db3.firebaseio.com",
+    "project_id": "pocket-police-45db3",
+    "storage_bucket": "pocket-police-45db3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805031337184:android:5814697158084da7",
+        "android_client_info": {
+          "package_name": "com.sayed.easyreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805031337184-5ad4cc54h30ue49vthdfunsc52ph8dfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sayed.easyreport",
+            "certificate_hash": "6ff75dec21ef7ef162ee1c0c858d0285c5a4002f"
+          }
+        },
+        {
+          "client_id": "805031337184-vouubl82i4b8tv19b6flndqg7d37epvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjycX48vXmN45frKZ6hDRXvCPgWsYJwd0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805031337184-vouubl82i4b8tv19b6flndqg7d37epvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
